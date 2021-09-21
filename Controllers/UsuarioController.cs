@@ -34,7 +34,7 @@ namespace proyectoFormativo.Controllers
                 return NotFound();
             }
 
-            var calificacion = await _context.Calificacion
+            var usuario = await _context.Usuario
                 .Include(c => c.Curso)
                 .Include(c => c.Estudiante)
                 .FirstOrDefaultAsync(m => m.Id == id);
