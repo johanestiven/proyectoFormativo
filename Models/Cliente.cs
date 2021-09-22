@@ -3,6 +3,7 @@ namespace proyectoFormativo.Models
     public class Cliente
     {
         //hdgydvu
+        //jahahahaha
         [Key]
         public int Id { get; set; }
 
