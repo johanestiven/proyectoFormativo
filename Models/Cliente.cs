@@ -2,6 +2,7 @@ namespace proyectoFormativo.Models
 {
     public class Cliente
     {
+        //hdgydvu
         [Key]
         public int Id { get; set; }
 
