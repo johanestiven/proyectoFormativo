@@ -33,3 +33,13 @@ C:\Users\SENA\Documents\proyectoFormativo\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\SENA\Documents\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.dll
 C:\Users\SENA\Documents\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.pdb
 C:\Users\SENA\Documents\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.csproj.CopyComplete
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.csproj.AssemblyReference.cache
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.AssemblyInfoInputs.cache
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.AssemblyInfo.cs
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.csproj.CoreCompileInputs.cache
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.RazorAssemblyInfo.cache
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.RazorAssemblyInfo.cs
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.dll
+C:\Users\laura\proyectoFormativo\obj\Debug\netcoreapp3.1\proyectoFormativo.pdb

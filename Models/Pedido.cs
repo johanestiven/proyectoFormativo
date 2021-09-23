@@ -1,3 +1,5 @@
+using System;
+using System.ComponentModel.DataAnnotations;
 namespace proyectoFormativo.Models
 {
     public class Pedido
